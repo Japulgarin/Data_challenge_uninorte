@@ -1,0 +1,208 @@
+Conversación,Horario,Label
+"Tal vez No estoy seguro, necesito más información.",noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"Buenos días, estoy interesado en el servicio.",noche,1
+Tal vez Mejor llamo otro día.,noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"Esto es justo lo que necesito, ¿cómo procedo?",noche,1
+"Tal vez No estoy seguro, necesito más información.",día,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+Tal vez Creo que lo pensaré y volveré más tarde.,noche,0
+"Por favor, Buenos días, estoy interesado en el servicio.",día,1
+¿Cómo puedo realizar la compra?,día,1
+"Tal vez No es lo que estoy buscando, gracias.",noche,0
+"Tal vez No estoy seguro, necesito más información.",noche,0
+Quizás Mejor llamo otro día.,día,0
+Quizás Mejor llamo otro día.,noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"Quizás No es lo que estoy buscando, gracias.",noche,0
+"Buenos días, estoy interesado en el servicio.",noche,1
+"Tal vez No estoy seguro, necesito más información.",noche,0
+Mejor llamo otro día.,noche,0
+Creo que lo pensaré y volveré más tarde.,día,0
+"Tal vez Me parece muy caro, ¿hay algún descuento?",noche,0
+"Quizás No es lo que estoy buscando, gracias.",día,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+Mejor llamo otro día.,día,0
+"Dígame, Quiero comprarlo, ¿tienen disponibilidad?",noche,1
+"Esto es justo lo que necesito, ¿cómo procedo?",noche,1
+"Me parece muy caro, ¿hay algún descuento?",día,0
+"Esto es justo lo que necesito, ¿cómo procedo?",noche,1
+Tal vez Mejor llamo otro día.,día,0
+"Dígame, Quiero comprarlo, ¿tienen disponibilidad?",día,1
+"Quizás No estoy seguro, necesito más información.",día,0
+"Por favor, Me gustaría adquirir este producto.",noche,1
+"Tal vez No estoy seguro, necesito más información.",noche,0
+Mejor llamo otro día.,noche,0
+"Esto es justo lo que necesito, ¿cómo procedo?",día,1
+"No estoy seguro, necesito más información.",noche,0
+Tal vez Mejor llamo otro día.,noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"No es lo que estoy buscando, gracias.",noche,0
+Creo que lo pensaré y volveré más tarde.,noche,0
+"Tal vez Me parece muy caro, ¿hay algún descuento?",noche,0
+"Por favor, ¿Cómo puedo realizar la compra?",noche,1
+"Dígame, Quiero comprarlo, ¿tienen disponibilidad?",día,1
+"Quizás No es lo que estoy buscando, gracias.",día,0
+"Estoy listo para adquirir el servicio, ¿qué debo hacer?",día,1
+"Me han recomendado este producto, quiero uno.",noche,1
+¿Puedo comprar dos de estos?,noche,1
+"Voy a necesitar el servicio, por favor.",día,1
+"He decidido comprar, ¿cuál es el siguiente paso?",día,1
+"Finalmente, he decidido adquirirlo.",día,1
+¿Tienen algún paquete para nuevos clientes?,día,1
+¿Qué opciones de pago tengo?,día,1
+Quisiera hacer la compra ahora.,día,1
+Estoy listo para continuar con la compra.,día,1
+¿Pueden enviármelo a mi dirección?,día,1
+"He escuchado buenas críticas, quiero uno.",noche,1
+¿Hay alguna promoción si compro dos?,noche,1
+"Quiero este y otro producto más, ¿es posible?",día,1
+Voy a adquirir el servicio premium.,noche,1
+Estoy dispuesto a pagar ahora.,noche,1
+"Voy a necesitar factura, por favor.",día,1
+Quiero hacer la compra en línea.,noche,1
+"Estoy satisfecho con la información, compraré.",noche,1
+Voy a seguir adelante y comprar.,día,1
+"Por favor, procesa mi orden.",día,1
+Voy a comprarlo para un regalo.,día,1
+Voy a necesitar envío exprés.,día,1
+"¿Tienen garantía? De todas formas, lo compraré.",día,1
+Voy a adquirir el paquete completo.,día,1
+"Quiero el servicio, pero necesito asesoría.",día,1
+"Voy a hacer la compra, pero quiero elegir el color.",día,1
+Estoy dispuesto a comprar ahora mismo.,noche,1
+¿Tienen alguna oferta para nuevos clientes?,día,1
+"Lo compraré, pero quisiera saber más sobre el mantenimiento.",día,1
+Voy a adquirirlo como regalo de cumpleaños.,noche,1
+"Quiero el producto, pero con algunas modificaciones.",día,1
+Estoy listo para hacer la transacción.,día,1
+"Lo compraré, pero necesito que lo envíen rápidamente.",día,1
+Me gustaría adquirirlo junto con otro producto.,día,1
+"Quiero comprarlo, pero necesito un descuento.",noche,1
+"Estoy listo para comprar, ¿puedo hacerlo en cuotas?",día,1
+"Quiero el producto, pero con envío internacional.",noche,1
+"Voy a comprarlo, pero me gustaría una demostración primero.",noche,1
+"Voy a adquirirlo, pero ¿tienen devoluciones?",día,1
+"Quiero comprarlo, pero ¿puedo cambiarlo después?",día,1
+"Estoy listo para comprar, pero quisiera una garantía extendida.",noche,1
+"Voy a adquirir el servicio, pero necesito soporte técnico.",día,1
+"Quiero hacer la compra, ¿tienen atención al cliente?",noche,1
+"Voy a comprarlo, pero quisiera saber más sobre la instalación.",día,1
+"Estoy dispuesto a adquirirlo, pero necesito financiamiento.",noche,1
+"Quiero comprar, pero quisiera ver otros modelos primero.",noche,1
+"Voy a hacer la compra, pero necesito que lo entreguen a otra dirección.",día,1
+"Quiero el producto, pero quisiera saber sobre la política de devoluciones.",noche,1
+"Estoy listo para comprar, pero necesito que lo instalen.",día,1
+"Voy a comprarlo, pero quisiera una prueba gratuita primero.",día,1
+"Estoy dispuesto a adquirirlo, pero necesito saber sobre actualizaciones.",día,1
+"Voy a comprar, pero quisiera una demostración en persona.",día,1
+"Quiero el producto, pero necesito que lo configuren.",día,1
+"Voy a adquirirlo, pero quisiera un descuento por ser estudiante.",día,1
+"Quiero comprar, pero necesito que lo envíen el mismo día.",día,1
+"Estoy listo para hacer la compra, pero quisiera un paquete personalizado.",día,1
+"Voy a comprarlo, pero necesito que lo ensamblen.",día,1
+"Quiero el producto, pero con algunas personalizaciones.",noche,1
+"Estoy dispuesto a comprar, pero necesito que lo entreguen en un horario específico.",día,1
+"Voy a adquirirlo, pero quisiera saber sobre la compatibilidad con otros productos.",día,1
+"No estoy convencido de la calidad, lo pensaré.",noche,0
+Prefiero buscar otras opciones antes de decidir.,noche,0
+No estoy seguro de que sea lo que necesito.,noche,0
+"Lo siento, he encontrado una mejor oferta en otro lugar.",noche,0
+Me gustaría ver más opciones.,noche,0
+No estoy listo para comprar en este momento.,día,0
+Estoy buscando algo más específico.,noche,0
+No creo que sea el producto adecuado para mí.,noche,0
+He decidido esperar y no comprar ahora.,día,0
+Necesito más tiempo para pensar.,noche,0
+Estoy considerando otras marcas.,noche,0
+No estoy seguro de que valga la pena.,noche,0
+"Lo siento, pero es más caro de lo que esperaba.",noche,0
+Estoy buscando algo más barato.,día,0
+Me gustaría comparar con otros productos primero.,noche,0
+No estoy convencido de las características.,noche,0
+Creo que puedo encontrar algo mejor.,noche,0
+"No me gusta el diseño, lo siento.",noche,0
+"Lo siento, pero he cambiado de opinión.",noche,0
+Voy a esperar a una oferta o descuento.,noche,0
+Estoy buscando algo con mejores críticas.,noche,0
+No estoy seguro de que cumpla con mis expectativas.,noche,0
+"Lo siento, pero es más de lo que quiero gastar.",noche,0
+Voy a buscar opiniones antes de decidir.,noche,0
+Me gustaría verlo en persona antes de comprar.,noche,0
+No estoy listo para hacer una decisión.,día,0
+Estoy considerando otras opciones en este momento.,noche,0
+No creo que sea la versión que quiero.,noche,0
+"Lo siento, pero quiero algo más moderno.",día,0
+Voy a esperar a una nueva versión.,noche,0
+Estoy buscando algo con mejor rendimiento.,noche,0
+No estoy seguro de que se ajuste a mis necesidades.,noche,0
+"Lo siento, pero he encontrado una mejor alternativa.",noche,0
+Me gustaría leer más sobre el producto antes de decidir.,día,0
+No creo que sea lo que estoy buscando.,día,0
+Estoy buscando algo en un color diferente.,noche,0
+Voy a esperar a una venta o promoción.,noche,0
+No estoy convencido de la durabilidad del producto.,día,0
+"Lo siento, pero quiero algo más pequeño.",día,0
+Voy a considerar otras opciones antes de decidir.,noche,0
+"Estoy listo para adquirir el servicio, ¿qué debo hacer?",noche,0
+"Me han recomendado este producto, quiero uno.",noche,0
+¿Puedo comprar dos de estos?,noche,0
+"Voy a necesitar el servicio, por favor.",noche,0
+"He decidido comprar, ¿cuál es el siguiente paso?",noche,0
+"Finalmente, he decidido adquirirlo.",noche,0
+¿Tienen algún paquete para nuevos clientes?,noche,0
+¿Qué opciones de pago tengo?,día,0
+Quisiera hacer la compra ahora.,día,0
+Estoy listo para continuar con la compra.,noche,0
+¿Pueden enviármelo a mi dirección?,noche,0
+"He escuchado buenas críticas, quiero uno.",día,0
+¿Hay alguna promoción si compro dos?,noche,0
+"Quiero este y otro producto más, ¿es posible?",día,0
+Voy a adquirir el servicio premium.,día,0
+Estoy dispuesto a pagar ahora.,noche,0
+"Voy a necesitar factura, por favor.",día,0
+Quiero hacer la compra en línea.,noche,0
+"Estoy satisfecho con la información, compraré.",noche,0
+Voy a seguir adelante y comprar.,noche,0
+"Por favor, procesa mi orden.",noche,0
+Voy a comprarlo para un regalo.,día,0
+Voy a necesitar envío exprés.,día,0
+"¿Tienen garantía? De todas formas, lo compraré.",noche,0
+Voy a adquirir el paquete completo.,día,0
+"Quiero el servicio, pero necesito asesoría.",noche,0
+"Voy a hacer la compra, pero quiero elegir el color.",noche,0
+Estoy dispuesto a comprar ahora mismo.,noche,0
+¿Tienen alguna oferta para nuevos clientes?,noche,0
+"Lo compraré, pero quisiera saber más sobre el mantenimiento.",noche,0
+Voy a adquirirlo como regalo de cumpleaños.,día,0
+"Quiero el producto, pero con algunas modificaciones.",noche,0
+Estoy listo para hacer la transacción.,noche,0
+"Lo compraré, pero necesito que lo envíen rápidamente.",noche,0
+Me gustaría adquirirlo junto con otro producto.,noche,0
+"Quiero comprarlo, pero necesito un descuento.",noche,0
+"Estoy listo para comprar, ¿puedo hacerlo en cuotas?",noche,0
+"Quiero el producto, pero con envío internacional.",noche,0
+"Voy a comprarlo, pero me gustaría una demostración primero.",día,0
+"Voy a adquirirlo, pero ¿tienen devoluciones?",noche,0
+"Quiero comprarlo, pero ¿puedo cambiarlo después?",noche,0
+"Estoy listo para comprar, pero quisiera una garantía extendida.",noche,0
+"Voy a adquirir el servicio, pero necesito soporte técnico.",día,0
+"Quiero hacer la compra, ¿tienen atención al cliente?",noche,0
+"Voy a comprarlo, pero quisiera saber más sobre la instalación.",día,0
+"Estoy dispuesto a adquirirlo, pero necesito financiamiento.",noche,0
+"Quiero comprar, pero quisiera ver otros modelos primero.",noche,0
+"Voy a hacer la compra, pero necesito que lo entreguen a otra dirección.",noche,0
+"Quiero el producto, pero quisiera saber sobre la política de devoluciones.",noche,0
+"Estoy listo para comprar, pero necesito que lo instalen.",día,0
+"Voy a comprarlo, pero quisiera una prueba gratuita primero.",noche,0
+"Estoy dispuesto a adquirirlo, pero necesito saber sobre actualizaciones.",noche,0
+"Voy a comprar, pero quisiera una demostración en persona.",día,0
+"Quiero el producto, pero necesito que lo configuren.",noche,0
+"Voy a adquirirlo, pero quisiera un descuento por ser estudiante.",día,0
+"Quiero comprar, pero necesito que lo envíen el mismo día.",noche,0
+"Estoy listo para hacer la compra, pero quisiera un paquete personalizado.",noche,0
+"Voy a comprarlo, pero necesito que lo ensamblen.",día,0
+"Quiero el producto, pero con algunas personalizaciones.",noche,0
+"Estoy dispuesto a comprar, pero necesito que lo entreguen en un horario específico.",noche,0
+"Voy a adquirirlo, pero quisiera saber sobre la compatibilidad con otros productos.",noche,0
