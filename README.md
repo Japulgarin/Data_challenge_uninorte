@@ -1,8 +1,6 @@
-Este archivo incluye dos notebooks que detallan, paso a paso, la construcción de modelos básicos de Machine Learning destinados a dos problemas de clasificación. Estos materiales tienen como finalidad asistir a los estudiantes participantes del "Data Challenge", organizado conjuntamente por el pregrado en Ciencia de Datos de Uninorte y Bancolombia.
+Este archivo incluye un notebooks que detallan, paso a paso, la construcción de modelos básicos de Machine Learning destinados a dos problemas de clasificación. Estos materiales tienen como finalidad asistir a los estudiantes participantes del "Data Challenge", organizado conjuntamente por el pregrado en Ciencia de Datos de Uninorte y Bancolombia.
 
-El notebook titulado "Creditos_alemanes.ipynb" ofrece una guía detallada sobre cómo desarrollar modelos de Machine Learning, acompañada de recomendaciones generales para trabajar con bases de datos. 
-
-Por otro lado, el notebook "Ejemplo clasificacionn de trxto" sirve como ejercicio práctico para reforzar lo aprendido en el primer cuaderno. Además, este último viene con un archivo adjunto, "online_shoppers_intention.csv", que es una base de datos en formato CSV disponible para su descarga. El último archivo, "Ejemplo clasificacion de texto.ipynb", muestra un ejemplo enfocado más a resolver el reto propuesto para el evento, mostrando cómo crear un modelo de clasificación por texto. Su base de datos para trabajar con el cuadernillo es df_extended.csv.
+El notebook  "Ejemplo clasificacionn de trxto" sirve como ejercicio práctico para reforzar lo aprendido en clases teoricas. Además, tiene  un archivo adjunto, ".csv", que es una base de datos en formato CSV disponible para su descarga. 
 
 Links de interes:
 
@@ -15,12 +13,8 @@ https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_
 Funcion de vectorizacion de textocpor Scikit-learn:
 https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
 
-
 Modelos de clasificacíon https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
 
-Base  sobre creditos Alemanes  https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
-
-Base sobre compras online  https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 
 
