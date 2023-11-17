@@ -1,0 +1,556 @@
+Conversación,Horario,Label
+"Tal vez No estoy seguro, necesito más información.",noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"Buenos días, estoy interesado en el servicio.",noche,1
+Tal vez Mejor llamo otro día.,noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"Esto es justo lo que necesito, ¿cómo procedo?",noche,1
+"Tal vez No estoy seguro, necesito más información.",día,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+Tal vez Creo que lo pensaré y volveré más tarde.,noche,0
+"Por favor, Buenos días, estoy interesado en el servicio.",día,1
+¿Cómo puedo realizar la compra?,día,1
+"Tal vez No es lo que estoy buscando, gracias.",noche,0
+"Tal vez No estoy seguro, necesito más información.",noche,0
+Quizás Mejor llamo otro día.,día,0
+Quizás Mejor llamo otro día.,noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"Quizás No es lo que estoy buscando, gracias.",noche,0
+"Buenos días, estoy interesado en el servicio.",noche,1
+"Tal vez No estoy seguro, necesito más información.",noche,0
+Mejor llamo otro día.,noche,0
+Creo que lo pensaré y volveré más tarde.,día,0
+"Tal vez Me parece muy caro, ¿hay algún descuento?",noche,0
+"Quizás No es lo que estoy buscando, gracias.",día,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+Mejor llamo otro día.,día,0
+"Dígame, Quiero comprarlo, ¿tienen disponibilidad?",noche,1
+"Esto es justo lo que necesito, ¿cómo procedo?",noche,1
+"Me parece muy caro, ¿hay algún descuento?",día,0
+"Esto es justo lo que necesito, ¿cómo procedo?",noche,1
+Tal vez Mejor llamo otro día.,día,0
+"Dígame, Quiero comprarlo, ¿tienen disponibilidad?",día,1
+"Quizás No estoy seguro, necesito más información.",día,0
+"Por favor, Me gustaría adquirir este producto.",noche,1
+"Tal vez No estoy seguro, necesito más información.",noche,0
+Mejor llamo otro día.,noche,0
+"Esto es justo lo que necesito, ¿cómo procedo?",día,1
+"No estoy seguro, necesito más información.",noche,0
+Tal vez Mejor llamo otro día.,noche,0
+"Quizás Me parece muy caro, ¿hay algún descuento?",noche,0
+"No es lo que estoy buscando, gracias.",noche,0
+Creo que lo pensaré y volveré más tarde.,noche,0
+"Tal vez Me parece muy caro, ¿hay algún descuento?",noche,0
+"Por favor, ¿Cómo puedo realizar la compra?",noche,1
+"Dígame, Quiero comprarlo, ¿tienen disponibilidad?",día,1
+"Quizás No es lo que estoy buscando, gracias.",día,0
+"Estoy listo para adquirir el servicio, ¿qué debo hacer?",día,1
+"Me han recomendado este producto, quiero uno.",noche,1
+¿Puedo comprar dos de estos?,noche,1
+"Voy a necesitar el servicio, por favor.",día,1
+"He decidido comprar, ¿cuál es el siguiente paso?",día,1
+"Finalmente, he decidido adquirirlo.",día,1
+¿Tienen algún paquete para nuevos clientes?,día,1
+¿Qué opciones de pago tengo?,día,1
+Quisiera hacer la compra ahora.,día,1
+Estoy listo para continuar con la compra.,día,1
+¿Pueden enviármelo a mi dirección?,día,1
+"He escuchado buenas críticas, quiero uno.",noche,1
+¿Hay alguna promoción si compro dos?,noche,1
+"Quiero este y otro producto más, ¿es posible?",día,1
+Voy a adquirir el servicio premium.,noche,1
+Estoy dispuesto a pagar ahora.,noche,1
+"Voy a necesitar factura, por favor.",día,1
+Quiero hacer la compra en línea.,noche,1
+"Estoy satisfecho con la información, compraré.",noche,1
+Voy a seguir adelante y comprar.,día,1
+"Por favor, procesa mi orden.",día,1
+Voy a comprarlo para un regalo.,día,1
+Voy a necesitar envío exprés.,día,1
+"¿Tienen garantía? De todas formas, lo compraré.",día,1
+Voy a adquirir el paquete completo.,día,1
+"Quiero el servicio, pero necesito asesoría.",día,1
+"Voy a hacer la compra, pero quiero elegir el color.",día,1
+Estoy dispuesto a comprar ahora mismo.,noche,1
+¿Tienen alguna oferta para nuevos clientes?,día,1
+"Lo compraré, pero quisiera saber más sobre el mantenimiento.",día,1
+Voy a adquirirlo como regalo de cumpleaños.,noche,1
+"Quiero el producto, pero con algunas modificaciones.",día,1
+Estoy listo para hacer la transacción.,día,1
+"Lo compraré, pero necesito que lo envíen rápidamente.",día,1
+Me gustaría adquirirlo junto con otro producto.,día,1
+"Quiero comprarlo, pero necesito un descuento.",noche,1
+"Estoy listo para comprar, ¿puedo hacerlo en cuotas?",día,1
+"Quiero el producto, pero con envío internacional.",noche,1
+"Voy a comprarlo, pero me gustaría una demostración primero.",noche,1
+"Voy a adquirirlo, pero ¿tienen devoluciones?",día,1
+"Quiero comprarlo, pero ¿puedo cambiarlo después?",día,1
+"Estoy listo para comprar, pero quisiera una garantía extendida.",noche,1
+"Voy a adquirir el servicio, pero necesito soporte técnico.",día,1
+"Quiero hacer la compra, ¿tienen atención al cliente?",noche,1
+"Voy a comprarlo, pero quisiera saber más sobre la instalación.",día,1
+"Estoy dispuesto a adquirirlo, pero necesito financiamiento.",noche,1
+"Quiero comprar, pero quisiera ver otros modelos primero.",noche,1
+"Voy a hacer la compra, pero necesito que lo entreguen a otra dirección.",día,1
+"Quiero el producto, pero quisiera saber sobre la política de devoluciones.",noche,1
+"Estoy listo para comprar, pero necesito que lo instalen.",día,1
+"Voy a comprarlo, pero quisiera una prueba gratuita primero.",día,1
+"Estoy dispuesto a adquirirlo, pero necesito saber sobre actualizaciones.",día,1
+"Voy a comprar, pero quisiera una demostración en persona.",día,1
+"Quiero el producto, pero necesito que lo configuren.",día,1
+"Voy a adquirirlo, pero quisiera un descuento por ser estudiante.",día,1
+"Quiero comprar, pero necesito que lo envíen el mismo día.",día,1
+"Estoy listo para hacer la compra, pero quisiera un paquete personalizado.",día,1
+"Voy a comprarlo, pero necesito que lo ensamblen.",día,1
+"Quiero el producto, pero con algunas personalizaciones.",noche,1
+"Estoy dispuesto a comprar, pero necesito que lo entreguen en un horario específico.",día,1
+"Voy a adquirirlo, pero quisiera saber sobre la compatibilidad con otros productos.",día,1
+"No estoy convencido de la calidad, lo pensaré.",noche,0
+Prefiero buscar otras opciones antes de decidir.,noche,0
+No estoy seguro de que sea lo que necesito.,noche,0
+"Lo siento, he encontrado una mejor oferta en otro lugar.",noche,0
+Me gustaría ver más opciones.,noche,0
+No estoy listo para comprar en este momento.,día,0
+Estoy buscando algo más específico.,noche,0
+No creo que sea el producto adecuado para mí.,noche,0
+He decidido esperar y no comprar ahora.,día,0
+Necesito más tiempo para pensar.,noche,0
+Estoy considerando otras marcas.,noche,0
+No estoy seguro de que valga la pena.,noche,0
+"Lo siento, pero es más caro de lo que esperaba.",noche,0
+Estoy buscando algo más barato.,día,0
+Me gustaría comparar con otros productos primero.,noche,0
+No estoy convencido de las características.,noche,0
+Creo que puedo encontrar algo mejor.,noche,0
+"No me gusta el diseño, lo siento.",noche,0
+"Lo siento, pero he cambiado de opinión.",noche,0
+Voy a esperar a una oferta o descuento.,noche,0
+Estoy buscando algo con mejores críticas.,noche,0
+No estoy seguro de que cumpla con mis expectativas.,noche,0
+"Lo siento, pero es más de lo que quiero gastar.",noche,0
+Voy a buscar opiniones antes de decidir.,noche,0
+Me gustaría verlo en persona antes de comprar.,noche,0
+No estoy listo para hacer una decisión.,día,0
+Estoy considerando otras opciones en este momento.,noche,0
+No creo que sea la versión que quiero.,noche,0
+"Lo siento, pero quiero algo más moderno.",día,0
+Voy a esperar a una nueva versión.,noche,0
+Estoy buscando algo con mejor rendimiento.,noche,0
+No estoy seguro de que se ajuste a mis necesidades.,noche,0
+"Lo siento, pero he encontrado una mejor alternativa.",noche,0
+Me gustaría leer más sobre el producto antes de decidir.,día,0
+No creo que sea lo que estoy buscando.,día,0
+Estoy buscando algo en un color diferente.,noche,0
+Voy a esperar a una venta o promoción.,noche,0
+No estoy convencido de la durabilidad del producto.,día,0
+"Lo siento, pero quiero algo más pequeño.",día,0
+Voy a considerar otras opciones antes de decidir.,noche,0
+"Estoy listo para adquirir el servicio, ¿qué debo hacer?",noche,0
+"Me han recomendado este producto, quiero uno.",noche,0
+¿Puedo comprar dos de estos?,noche,0
+"Voy a necesitar el servicio, por favor.",noche,0
+"He decidido comprar, ¿cuál es el siguiente paso?",noche,0
+"Finalmente, he decidido adquirirlo.",noche,0
+¿Tienen algún paquete para nuevos clientes?,noche,0
+¿Qué opciones de pago tengo?,día,0
+Quisiera hacer la compra ahora.,día,0
+Estoy listo para continuar con la compra.,noche,0
+¿Pueden enviármelo a mi dirección?,noche,0
+"He escuchado buenas críticas, quiero uno.",día,0
+¿Hay alguna promoción si compro dos?,noche,0
+"Quiero este y otro producto más, ¿es posible?",día,0
+Voy a adquirir el servicio premium.,día,0
+Estoy dispuesto a pagar ahora.,noche,0
+"Voy a necesitar factura, por favor.",día,0
+Quiero hacer la compra en línea.,noche,0
+"Estoy satisfecho con la información, compraré.",noche,0
+Voy a seguir adelante y comprar.,noche,0
+"Por favor, procesa mi orden.",noche,0
+Voy a comprarlo para un regalo.,día,0
+Voy a necesitar envío exprés.,día,0
+"¿Tienen garantía? De todas formas, lo compraré.",noche,0
+Voy a adquirir el paquete completo.,día,0
+"Quiero el servicio, pero necesito asesoría.",noche,0
+"Voy a hacer la compra, pero quiero elegir el color.",noche,0
+Estoy dispuesto a comprar ahora mismo.,noche,0
+¿Tienen alguna oferta para nuevos clientes?,noche,0
+"Lo compraré, pero quisiera saber más sobre el mantenimiento.",noche,0
+Voy a adquirirlo como regalo de cumpleaños.,día,0
+"Quiero el producto, pero con algunas modificaciones.",noche,0
+Estoy listo para hacer la transacción.,noche,0
+"Lo compraré, pero necesito que lo envíen rápidamente.",noche,0
+Me gustaría adquirirlo junto con otro producto.,noche,0
+"Quiero comprarlo, pero necesito un descuento.",noche,0
+"Estoy listo para comprar, ¿puedo hacerlo en cuotas?",noche,0
+"Quiero el producto, pero con envío internacional.",noche,0
+"Voy a comprarlo, pero me gustaría una demostración primero.",día,0
+"Voy a adquirirlo, pero ¿tienen devoluciones?",noche,0
+"Quiero comprarlo, pero ¿puedo cambiarlo después?",noche,0
+"Estoy listo para comprar, pero quisiera una garantía extendida.",noche,0
+"Voy a adquirir el servicio, pero necesito soporte técnico.",día,0
+"Quiero hacer la compra, ¿tienen atención al cliente?",noche,0
+"Voy a comprarlo, pero quisiera saber más sobre la instalación.",día,0
+"Estoy dispuesto a adquirirlo, pero necesito financiamiento.",noche,0
+"Quiero comprar, pero quisiera ver otros modelos primero.",noche,0
+"Voy a hacer la compra, pero necesito que lo entreguen a otra dirección.",noche,0
+"Quiero el producto, pero quisiera saber sobre la política de devoluciones.",noche,0
+"Estoy listo para comprar, pero necesito que lo instalen.",día,0
+"Voy a comprarlo, pero quisiera una prueba gratuita primero.",noche,0
+"Estoy dispuesto a adquirirlo, pero necesito saber sobre actualizaciones.",noche,0
+"Voy a comprar, pero quisiera una demostración en persona.",día,0
+"Quiero el producto, pero necesito que lo configuren.",noche,0
+"Voy a adquirirlo, pero quisiera un descuento por ser estudiante.",día,0
+"Quiero comprar, pero necesito que lo envíen el mismo día.",noche,0
+"Estoy listo para hacer la compra, pero quisiera un paquete personalizado.",noche,0
+"Voy a comprarlo, pero necesito que lo ensamblen.",día,0
+"Quiero el producto, pero con algunas personalizaciones.",noche,0
+"Estoy dispuesto a comprar, pero necesito que lo entreguen en un horario específico.",noche,0
+"Voy a adquirirlo, pero quisiera saber sobre la compatibilidad con otros productos.",noche,0
+"Rechazo el producto, gracias. avanzado durabilidad novedad promoción",día,0
+"No me atrae, lo siento. oportunidad exclusivo último modelo",día,0
+No tengo interés en absoluto. descuento oferta calidad rendimiento,noche,0
+El producto no me cautiva. ahorro último modelo ventaja,noche,0
+"Prefiero no adquirirlo, gracias. avanzado innovador garantía último modelo",noche,0
+"Rechazo, gracias, no me entusiasma. beneficio único óptimo rendimiento",noche,0
+No deseo el producto en este momento. beneficio precio novedad último modelo,noche,0
+No es lo que estoy buscando. avanzado beneficio revolucionario,día,0
+"No me convence, lo siento. oportunidad calidad revolucionario ahorro",noche,0
+No me llama la atención. estilo oferta garantía,día,0
+No me atrae en este momento. económico descuento promoción precio,noche,0
+"Rechazo, gracias, estoy ocupado. premium oferta precio",noche,0
+"No estoy interesado, lo lamento. económico garantía exclusivo durabilidad",día,0
+No tengo interés en absoluto. ideal rendimiento avanzado,noche,0
+"No me interesa, gracias. premium calidad garantía",día,0
+No quiero comprar el producto. rendimiento ventaja novedad,día,0
+Prefiero no adquirirlo ahora. calidad precio ahorro,noche,0
+"No es lo que busco, gracias. ahorro ventaja avanzado",día,0
+"No me convence, lo siento. beneficio último modelo novedad",noche,0
+"No me atrae, gracias. último modelo oferta óptimo único",día,0
+"No me cautiva en absoluto, gracias. ahorro económico ventaja innovador",noche,0
+No estoy buscando ese tipo de producto. avanzado oportunidad oferta innovador,día,0
+No creo que lo necesite en este momento. beneficio garantía ideal,día,0
+Prefiero no adquirir productos ahora. exclusivo calidad oportunidad,noche,0
+"No, gracias, ya tengo algo similar. precio ventaja único",día,0
+No veo cómo esto me beneficia. innovador económico revolucionario ahorro,noche,0
+No tengo presupuesto para eso. ahorro descuento precio,día,0
+No encaja con mi negocio. oferta oportunidad exclusivo avanzado,noche,0
+No creo que sea una prioridad. estilo avanzado último modelo,noche,0
+"No me convence, lo siento. económico beneficio oportunidad",noche,0
+"No estoy interesado, gracias. promoción descuento innovador",día,0
+No es lo que estoy buscando. promoción calidad único,noche,0
+No me llama la atención en absoluto. estilo calidad ventaja oferta,día,0
+"No me interesa, gracias. estilo garantía exclusivo",noche,0
+No quiero comprar otro producto. revolucionario calidad económico ideal,día,0
+Prefiero no gastar dinero ahora. estilo durabilidad oportunidad,día,0
+No es lo que necesito en este momento. avanzado descuento oferta estilo,noche,0
+No me convence la oferta. oportunidad beneficio novedad estilo,día,0
+No me interesa en absoluto. revolucionario calidad garantía único,día,0
+"No me atrae, gracias. ahorro estilo ideal exclusivo",día,0
+"Me abstengo de interés, gracias. garantía ideal durabilidad estilo",día,0
+Estoy buscando productos distintos. descuento ideal durabilidad,día,0
+Considero que no lo necesito en este momento. beneficio garantía único descuento,día,0
+Prefiero explorar otras opciones. promoción durabilidad precio estilo,día,0
+"La verdad, ya tengo algo similar. único económico garantía avanzado",noche,0
+No veo cómo esto me beneficia ahora. económico ventaja único,noche,0
+Tengo otros planes para mi presupuesto. exclusivo descuento durabilidad,día,0
+"En realidad, no encaja con mi negocio. ahorro óptimo precio",día,0
+No lo considero una prioridad en este momento. económico garantía único,noche,0
+"No me convence la propuesta, lo siento. estilo ideal calidad rendimiento",día,0
+"Honestamente, no estoy interesado, gracias. rendimiento calidad premium estilo",noche,0
+No se ajusta a lo que estoy buscando. revolucionario garantía rendimiento,día,0
+Esta oferta no me llama la atención en absoluto. económico ahorro ideal,día,0
+"No me interesa en lo más mínimo, gracias. rendimiento estilo premium oportunidad",noche,0
+Prefiero no invertir en otro producto. ideal rendimiento ahorro,noche,0
+Tengo otras prioridades financieras ahora. oferta ventaja garantía,día,0
+No es lo que realmente necesito actualmente. exclusivo premium rendimiento,noche,0
+Esta oferta no me convence completamente. exclusivo novedad ventaja económico,día,0
+"Realmente, no me genera interés alguno. novedad económico durabilidad ahorro",noche,0
+"No me atrae, en serio, gracias. novedad premium ventaja oportunidad",noche,0
+No estoy considerando el producto en este momento. económico beneficio durabilidad,noche,0
+Mis necesidades van en otra dirección. ventaja único calidad ahorro,día,0
+"No es lo que estoy considerando, gracias. revolucionario novedad durabilidad",noche,0
+No encuentro que sea lo que estoy buscando. ventaja óptimo ahorro oferta,día,0
+"Esta propuesta no me convence por completo, lo siento. promoción premium durabilidad",noche,0
+"No siento ninguna atracción por esta oferta, gracias. rendimiento ahorro óptimo",día,0
+"En realidad, no deseo el producto en este momento. exclusivo precio revolucionario innovador",día,0
+No encaja con mi visión actual. rendimiento durabilidad novedad,día,0
+"No me convence por completo, lo siento. ventaja avanzado calidad último modelo",noche,0
+"No me atrae en lo más mínimo, gracias. exclusivo calidad rendimiento",día,0
+No estoy interesado en comprar otro producto. innovador avanzado calidad,noche,0
+Prefiero mantener mi presupuesto sin cambios por ahora. revolucionario ahorro único promoción,noche,0
+No se alinea con mis necesidades actuales. novedad beneficio calidad,día,0
+No me convence completamente la oferta actual. estilo último modelo rendimiento,noche,0
+"No me genera ningún interés, en serio. promoción rendimiento durabilidad oferta",día,0
+No estoy considerando una compra en este momento. novedad promoción garantía rendimiento,noche,0
+Tengo otros objetivos en mente en este momento. beneficio oportunidad revolucionario,día,0
+"No es lo que busco en absoluto, gracias. premium único promoción precio",noche,0
+"¡Definitivamente, deseo ese producto! innovador último modelo óptimo",noche,1
+Me encantaría obtener ese producto. avanzado precio innovador,día,1
+"Sí, estoy muy intrigado por él. óptimo descuento ideal",día,1
+¡Quiero comprarlo de inmediato! novedad económico premium exclusivo,día,1
+"Por supuesto, estoy interesado. beneficio ideal exclusivo oferta",día,1
+"¡Eso suena genial, lo quiero! durabilidad ideal descuento",día,1
+"Estoy intrigado, ¿cómo lo obtengo? avanzado último modelo garantía",día,1
+"Sí, quiero conocer más al respecto. promoción ahorro estilo garantía",noche,1
+"Dame más detalles, por favor. innovador durabilidad beneficio único",noche,1
+¡Estoy emocionado por ese producto! precio oportunidad único,noche,1
+¿Cómo hago para adquirirlo? premium novedad ideal,día,1
+"¡Eso es lo que necesito, lo compro! rendimiento descuento único",día,1
+Estoy listo para comprarlo ahora. precio ventaja promoción estilo,día,1
+"¡Sí, eso me interesa mucho! óptimo oferta estilo",noche,1
+¿Dónde puedo conseguirlo ya? exclusivo premium calidad,día,1
+"Sí, estoy muy interesado en comprarlo. óptimo novedad ideal",noche,1
+"Por supuesto, quiero ese producto. descuento calidad garantía revolucionario",día,1
+"¡Me gustaría adquirirlo, por favor! rendimiento precio avanzado garantía",día,1
+"Sí, quiero hacer la compra hoy. durabilidad único oportunidad novedad",día,1
+¡Estoy dispuesto a comprarlo ya! último modelo precio premium ideal,día,1
+"Hola, estoy intrigado por tu producto. descuento precio innovador",noche,1
+He oído hablar de tu producto y me interesa. descuento premium calidad económico,día,1
+Quiero obtener más información sobre tu producto. beneficio rendimiento premium innovador,día,1
+¿Puedes explicarme cómo funciona? único calidad ahorro óptimo,día,1
+Estoy considerando comprar tu producto. revolucionario exclusivo descuento último modelo,día,1
+Necesito saber más antes de decidir. durabilidad económico promoción descuento,noche,1
+Estoy dispuesto a escuchar tu oferta. revolucionario durabilidad estilo,día,1
+¿Cuál es el precio y las características? ahorro descuento promoción,día,1
+¿Tienen alguna oferta especial en este momento? único estilo descuento promoción,día,1
+¿Hay opciones de personalización disponibles? ahorro oportunidad económico durabilidad,noche,1
+Me gustaría discutir las especificaciones. calidad oferta garantía ideal,día,1
+¿Ofrecen garantía para este producto? rendimiento oportunidad beneficio,día,1
+"Estoy interesado en comprar, ¿cuándo? ahorro oferta durabilidad promoción",día,1
+¿Puedes decirme más sobre la entrega? durabilidad promoción óptimo,día,1
+Quiero conocer las opiniones de los clientes. ventaja durabilidad novedad beneficio,noche,1
+¿Cuál es la política de devoluciones? ventaja calidad beneficio,noche,1
+Necesito detalles sobre el soporte técnico. calidad ventaja descuento,noche,1
+¿Tienen ejemplos de casos de éxito? económico oferta único premium,noche,1
+Háblame sobre las opciones de pago. novedad precio beneficio calidad,noche,1
+"Estoy interesado, ¿cuándo puedo comprarlo? revolucionario precio beneficio",noche,1
+"Hola, estoy intrigado por tu producto. descuento calidad avanzado oportunidad",noche,1
+He oído hablar de tu producto y me interesa. exclusivo económico último modelo único,día,1
+Quiero obtener más información sobre tu producto. beneficio económico descuento,día,1
+¿Puedes explicarme cómo funciona? beneficio económico oportunidad,noche,1
+Estoy considerando comprar tu producto. económico novedad oportunidad,noche,1
+Necesito saber más antes de decidir. calidad ideal óptimo,día,1
+Estoy dispuesto a escuchar tu oferta. innovador óptimo premium,día,1
+¿Cuál es el precio y las características? óptimo estilo innovador oferta,noche,1
+¿Tienen alguna oferta especial en este momento? ideal exclusivo avanzado,día,1
+¿Hay opciones de personalización disponibles? beneficio innovador promoción oferta,día,1
+Me gustaría discutir las especificaciones. económico durabilidad oferta oportunidad,día,1
+¿Ofrecen garantía para este producto? beneficio exclusivo rendimiento premium,día,1
+"Estoy interesado en comprar, ¿cuándo? último modelo novedad calidad garantía",noche,1
+¿Puedes decirme más sobre la entrega? novedad óptimo premium,noche,1
+Quiero conocer las opiniones de los clientes. durabilidad ahorro oferta,día,1
+¿Cuál es la política de devoluciones? durabilidad oportunidad calidad avanzado,día,1
+Necesito detalles sobre el soporte técnico. calidad revolucionario ahorro,día,1
+¿Tienen ejemplos de casos de éxito? premium ventaja óptimo,noche,1
+Háblame sobre las opciones de pago. beneficio único avanzado precio,día,1
+"Estoy interesado, ¿cuándo puedo comprarlo? último modelo beneficio estilo oportunidad",noche,1
+¿Puedes darme más información sobre el producto? innovador económico revolucionario,día,1
+Estoy buscando algo como tu producto. ideal único garantía beneficio,noche,1
+¿Cuál es la disponibilidad actual? rendimiento premium avanzado,noche,1
+¿Tienen un programa de afiliados? premium ahorro garantía rendimiento,noche,1
+Me gustaría saber más sobre la empresa. durabilidad precio oportunidad,noche,1
+"Estoy interesado, ¿cómo puedo contactarte? durabilidad estilo económico garantía",día,1
+¿Puedes enviarme una cotización por correo? oferta precio beneficio,noche,1
+Háblame sobre las opciones de financiamiento. ventaja calidad ahorro descuento,día,1
+¿Ofrecen capacitación para el producto? premium ahorro beneficio económico,día,1
+Estoy considerando invertir en tu producto. premium ideal exclusivo durabilidad,día,1
+Necesito detalles sobre el proceso de compra. ideal estilo avanzado,noche,1
+¿Tienes un programa de recompensas? innovador óptimo garantía novedad,día,1
+Quiero conocer más sobre la tecnología. ventaja único económico,noche,1
+¿Cuál es el plazo de entrega estimado? avanzado ahorro promoción,día,1
+¿Ofrecen asesoramiento personalizado? único económico estilo calidad,noche,1
+Estoy interesado en una demostración. oferta avanzado premium beneficio,día,1
+¿Puedes proporcionarme estudios de caso? único novedad durabilidad,día,1
+Háblame sobre las actualizaciones futuras. último modelo oportunidad ventaja,noche,1
+¿Tienen un programa de referidos? último modelo ideal oportunidad,día,1
+Estoy pensando en comprar tu producto. oferta ahorro único óptimo,día,1
+Me gustaría obtener más detalles sobre tu producto. oferta promoción último modelo,día,1
+Estoy considerando seriamente comprarlo. descuento calidad último modelo,noche,1
+¿Cuáles son las opciones de personalización disponibles? óptimo garantía ahorro,noche,1
+¿Puedes proporcionarme más información sobre el precio? económico ideal durabilidad,día,1
+Necesito conocer la disponibilidad actual. ahorro oportunidad innovador último modelo,noche,1
+Estoy interesado en obtener una demostración. rendimiento promoción ideal calidad,día,1
+¿Hay alguna oferta especial o descuento disponible? ideal oferta último modelo,día,1
+Me gustaría discutir las características en detalle. económico revolucionario promoción,noche,1
+¿Ofrecen garantía para este producto? oportunidad beneficio calidad único,noche,1
+¿Cuál es el plazo de entrega estimado? rendimiento innovador oportunidad estilo,día,1
+Estoy emocionado por conocer más sobre tu producto. exclusivo único revolucionario,día,1
+¿Cómo puedo obtener una cotización? durabilidad ventaja innovador,noche,1
+Me gustaría saber más sobre el soporte técnico. durabilidad exclusivo innovador,día,1
+¿Tienes ejemplos de casos de éxito? premium ventaja último modelo,noche,1
+Estoy dispuesto a considerar tu oferta. avanzado garantía descuento óptimo,noche,1
+¿Cuál es la política de devoluciones? premium novedad oferta promoción,día,1
+Háblame sobre las opciones de pago disponibles. oportunidad garantía último modelo,día,1
+¿Cuándo puedo realizar la compra? ahorro oportunidad calidad,día,1
+¿Tienen un programa de recompensas o fidelidad? innovador exclusivo estilo descuento,día,1
+"Me interesa, ¿puedes proporcionar más detalles? exclusivo premium innovador",día,1
+¿Puedo obtener más información sobre la empresa? estilo novedad descuento,día,1
+Estoy listo para tomar una decisión de compra. exclusivo avanzado beneficio innovador,noche,1
+¿Puedes explicar más sobre la tecnología detrás de esto? beneficio estilo avanzado novedad,noche,1
+"Estoy interesado, ¿cómo puedo contactarte? ideal último modelo rendimiento",noche,1
+¿Puedes mostrarme estudios de caso? estilo ahorro ventaja,noche,1
+Estoy considerando invertir en tu producto. óptimo precio último modelo,día,1
+Necesito detalles sobre el proceso de compra. novedad ventaja estilo,día,1
+¿Ofrecen capacitación para el producto? precio avanzado óptimo ventaja,noche,1
+Quiero saber más sobre las actualizaciones futuras. innovador premium promoción estilo,noche,1
+¿Tienen un programa de referidos? precio ideal beneficio,noche,1
+¿Cómo puedo obtener más información sobre el producto? ventaja oferta último modelo revolucionario,noche,1
+Estoy buscando algo similar a tu producto. oferta garantía promoción,noche,1
+¿Puedes proporcionarme información sobre las opciones de financiamiento? oportunidad ahorro avanzado,noche,1
+¿Cuál es la experiencia de usuario con tu producto? estilo único innovador,día,1
+¿Puedes hablarme sobre las ventajas competitivas? estilo promoción exclusivo,noche,1
+Me gustaría conocer más sobre las características clave. último modelo calidad ideal,noche,1
+¿Tienes casos de uso específicos para tu producto? ventaja innovador exclusivo avanzado,día,1
+Estoy interesado en una demostración en vivo. calidad oferta ahorro,noche,1
+¿Puedes explicar más sobre las integraciones disponibles? rendimiento oportunidad premium,noche,1
+¿Hay un equipo de soporte dedicado para el producto? último modelo innovador estilo,día,1
+¿Cuál es la política de actualización de tu producto? beneficio rendimiento ahorro,día,1
+¿Ofrecen asesoramiento personalizado para los clientes? precio último modelo revolucionario,noche,1
+Estoy considerando comprarlo en un futuro cercano. ahorro precio garantía,noche,1
+¿Puedes proporcionarme detalles sobre la entrega internacional? calidad oferta novedad económico,noche,1
+Me gustaría recibir información adicional por correo electrónico. premium ventaja garantía,noche,1
+¿Ofrecen pruebas gratuitas o versiones de prueba? garantía oferta estilo,día,1
+¿Cuál es el nivel de seguridad de tu producto? único ventaja premium,noche,1
+¿Puedo obtener recomendaciones de clientes actuales? garantía ideal innovador oferta,noche,1
+Estoy interesado en obtener un presupuesto personalizado. estilo oferta avanzado,día,1
+¿Ofrecen un programa de fidelidad para clientes? novedad estilo rendimiento,noche,1
+¿Cuál es el tiempo promedio de implementación del producto? promoción único novedad,noche,1
+Me gustaría programar una reunión para discutir más. exclusivo económico promoción,noche,1
+¿Puedes proporcionar casos de éxito en mi industria? premium estilo beneficio,noche,1
+¿Cómo funciona el proceso de adquisición de tu producto? ahorro ideal precio,día,1
+Estoy emocionado por las posibilidades de tu producto. precio óptimo ahorro avanzado,noche,1
+¿Tienen opciones de pago flexibles disponibles? avanzado revolucionario ahorro,noche,1
+Me gustaría obtener detalles sobre la asistencia técnica. calidad beneficio oportunidad último modelo,día,1
+¿Cuál es el tiempo de respuesta del soporte técnico? novedad único ahorro,día,1
+¿Puedes hablar sobre las actualizaciones de seguridad? ideal óptimo exclusivo,noche,1
+Estoy considerando seriamente invertir en tu solución. promoción ideal exclusivo innovador,día,1
+¿Ofrecen recursos de formación para usuarios? avanzado último modelo novedad,noche,1
+¿Puedes proporcionarme información sobre la implementación? ahorro beneficio único,noche,1
+¿Hay opciones de financiamiento a largo plazo? estilo beneficio económico avanzado,noche,1
+Me gustaría obtener testimonios de clientes satisfechos. premium promoción avanzado exclusivo,día,1
+¿Tienen un programa de reseñas de clientes? novedad garantía innovador,noche,1
+¿Cuál es el proceso de incorporación para nuevos clientes? garantía avanzado revolucionario,día,1
+Estoy interesado en saber más sobre las integraciones. rendimiento precio exclusivo,día,1
+¿Puedes hablar sobre las ventajas a largo plazo? calidad durabilidad oportunidad precio,noche,1
+¿Tienen un equipo de éxito del cliente dedicado? oportunidad exclusivo promoción,día,1
+Me gustaría programar una demostración en persona. único ahorro avanzado económico,día,1
+¿Ofrecen asesoramiento estratégico para clientes? premium ventaja calidad novedad,noche,1
+¿Cuál es el historial de actualizaciones de su producto? último modelo descuento innovador,día,1
+Estoy dispuesto a explorar una colaboración a largo plazo. innovador único último modelo,noche,1
+¿Puedes proporcionar ejemplos de ROI para tu producto? garantía óptimo avanzado oportunidad,noche,1
+¿Tienen un programa de referencia para clientes? garantía avanzado óptimo,noche,1
+¿Cuál es el proceso de implementación típico? premium beneficio ventaja último modelo,noche,1
+Me gustaría recibir información adicional sobre el producto. garantía estilo económico,noche,1
+¿Ofrecen pruebas gratuitas para evaluar el producto? rendimiento revolucionario último modelo,noche,1
+¿Cuál es su política de privacidad de datos? precio revolucionario exclusivo calidad,día,1
+Estoy interesado en conocer más sobre la capacitación. único económico ventaja precio,noche,1
+¿Puedes hablar sobre la escalabilidad de tu solución? ahorro estilo descuento avanzado,noche,1
+¿Tienen un programa de garantía de satisfacción? innovador óptimo calidad exclusivo,noche,1
+Me gustaría obtener detalles sobre las tarifas de servicio. estilo oferta beneficio,día,1
+¿Cuál es la experiencia del cliente durante la incorporación? innovador ventaja estilo,día,1
+¿Ofrecen soporte 24/7 para emergencias? oferta calidad último modelo,día,1
+Estoy considerando invertir en su solución a largo plazo. durabilidad exclusivo calidad,día,1
+¿Puedes proporcionar estudios de caso relevantes? exclusivo avanzado precio,noche,1
+¿Tienen una política de actualización de precios? único novedad innovador garantía,día,1
+Me gustaría programar una reunión para discutir más a fondo. oportunidad promoción garantía último modelo,día,1
+¿Ofrecen opciones de personalización avanzadas? novedad económico oportunidad,noche,1
+¿Cuál es el tiempo de respuesta promedio para preguntas? último modelo ahorro estilo,día,1
+¿Tienen un programa de recompensas para clientes leales? avanzado oportunidad beneficio promoción,día,1
+Estoy interesado en conocer los informes y análisis disponibles. estilo precio premium,noche,1
+¿Puedes hablar sobre la escalabilidad de la plataforma? revolucionario exclusivo rendimiento,día,1
+¿Tienen una comunidad activa de usuarios? exclusivo calidad último modelo,noche,1
+Me gustaría obtener una demostración en vivo personalizada. precio avanzado beneficio último modelo,noche,1
+¿Cuál es el historial de confiabilidad de su producto? avanzado exclusivo promoción económico,día,1
+¿Ofrecen entrenamiento en línea para usuarios? ventaja garantía único,noche,1
+¿Cuál es su política de cancelación de contrato? precio exclusivo óptimo,día,1
+Estoy dispuesto a explorar las opciones de implementación. oferta ventaja económico revolucionario,día,1
+¿Puedes proporcionar casos de éxito específicos de mi industria? oportunidad exclusivo avanzado,noche,1
+¿Tienen un programa de actualización de características? beneficio oportunidad innovador,noche,1
+Me gustaría obtener una cotización detallada. económico descuento premium,día,1
+¿Ofrecen recursos de soporte en línea? ahorro promoción innovador,día,1
+¿Cuál es la experiencia del cliente en el proceso de adquisición? descuento oferta ventaja promoción,día,1
+¿Tienen un equipo de soporte global? innovador novedad único,noche,1
+Estoy interesado en evaluar la integración con mis sistemas actuales. rendimiento durabilidad novedad,noche,1
+¿Puedes hablar sobre los resultados medibles de su producto? oportunidad premium estilo,noche,1
+¿Tienen una plataforma de formación en línea? durabilidad ahorro beneficio,día,1
+Me gustaría obtener detalles sobre los acuerdos de nivel de servicio (SLA). estilo rendimiento revolucionario ventaja,día,1
+¿Ofrecen un programa de lealtad exclusivo para clientes? ventaja precio oferta,noche,1
+¿Cuál es el proceso de resolución de problemas típico? oferta oportunidad ideal,noche,1
+Estoy dispuesto a considerar un plan de implementación personalizado. ahorro oferta revolucionario rendimiento,noche,1
+¿Puedes proporcionar testimonios de clientes en mi industria? oportunidad precio descuento,día,1
+¿Tienen un programa de actualización de tecnología? ventaja único ideal innovador,noche,1
+Me gustaría discutir los detalles de la entrega y la instalación. calidad avanzado ideal económico,día,1
+¿Ofrecen asistencia técnica en horario extendido? beneficio económico ventaja,noche,1
+¿Cuál es su política de devolución de productos no utilizados? revolucionario rendimiento exclusivo,día,1
+Estoy interesado en conocer los recursos de formación disponibles. innovador ventaja precio,noche,1
+¿Puedes hablar sobre las métricas clave de rendimiento (KPI)? oferta durabilidad promoción,noche,1
+¿Tienen un programa de recompensas por referidos? novedad oportunidad revolucionario,día,1
+¿Cuál es el proceso de actualización de software? descuento novedad exclusivo calidad,noche,1
+Me gustaría obtener información sobre las opciones de financiamiento a largo plazo. ideal beneficio ventaja estilo,noche,1
+¿Ofrecen servicios de consultoría para la implementación? oportunidad descuento oferta,noche,1
+¿Cuál es la experiencia de otros clientes en mi industria? exclusivo beneficio último modelo ventaja,día,1
+Estoy dispuesto a programar una reunión para discutir la colaboración. descuento promoción exclusivo,noche,1
+¿Puedes proporcionar ejemplos de impacto en la productividad? innovador revolucionario económico novedad,día,1
+¿Tienen un programa de referidos para empresas? único promoción garantía oferta,noche,1
+¿Cuál es el tiempo de respuesta promedio del soporte técnico? ideal avanzado garantía oferta,día,1
+Me gustaría obtener una demostración en vivo con casos de uso reales. precio único beneficio,día,1
+¿Ofrecen entrenamiento en persona para usuarios? ideal económico ventaja,día,1
+¿Cuál es su política de reembolso en caso de insatisfacción? oferta calidad óptimo innovador,día,1
+Estoy interesado en explorar la personalización avanzada del producto. rendimiento ahorro promoción descuento,día,1
+¿Puedes hablar sobre los informes personalizables disponibles? ventaja novedad premium,día,1
+¿Tienen un programa de fidelidad exclusivo para empresas? beneficio calidad precio ventaja,día,1
+¿Cuál es el proceso de escalada para problemas críticos? único óptimo exclusivo,día,1
+Me gustaría obtener detalles sobre la integración con otras herramientas. económico novedad oferta,día,1
+¿Ofrecen casos de éxito con resultados cuantificables? ventaja único exclusivo oferta,día,1
+¿Tienen una política de precios transparente y sin sorpresas? avanzado descuento novedad oportunidad,día,1
+¿Cuál es la experiencia de incorporación de nuevos clientes? ahorro único ideal,noche,1
+Estoy dispuesto a explorar las opciones de capacitación en línea. último modelo oportunidad promoción oferta,día,1
+¿Puedes proporcionar ejemplos de implementación exitosa? oportunidad beneficio ahorro avanzado,día,1
+¿Tienen un programa de actualización de características basado en comentarios? novedad óptimo descuento,día,1
+¿Cuál es el proceso de adquisición paso a paso? precio calidad exclusivo,noche,1
+Me gustaría obtener una cotización personalizada con descuentos aplicables. durabilidad revolucionario descuento,día,1
+¿Ofrecen soporte telefónico para consultas urgentes? calidad precio oportunidad óptimo,noche,1
+¿Cuál es su política de cancelación en caso de insatisfacción? ventaja oportunidad único,día,1
+Estoy interesado en conocer la experiencia de otros usuarios en mi industria. ahorro estilo descuento premium,noche,1
+¿Puedes hablar sobre la compatibilidad con sistemas heredados? rendimiento oferta avanzado,noche,1
+¿Tienen un programa de lealtad con beneficios exclusivos? beneficio exclusivo innovador avanzado,noche,1
+¿Cuál es el proceso de resolución de problemas críticos? avanzado último modelo durabilidad,día,1
+Me gustaría explorar la asistencia técnica en el sitio. estilo ventaja ahorro,día,1
+¿Ofrecen recursos de formación personalizada? oferta calidad revolucionario exclusivo,día,1
+¿Cuál es su política de actualización de precios a largo plazo? premium estilo rendimiento garantía,día,1
+Estoy dispuesto a considerar un plan de implementación totalmente personalizado. oportunidad descuento óptimo,noche,1
+¿Puedes proporcionar ejemplos de uso en casos reales? ideal único último modelo revolucionario,día,1
+¿Tienen un programa de referencia con recompensas atractivas? revolucionario ventaja innovador,noche,1
+¿Cuál es el tiempo de resolución típico para problemas técnicos? ideal avanzado oportunidad,día,1
+Me gustaría obtener información sobre la integración con otras herramientas de software. innovador precio garantía,noche,1
+¿Ofrecen servicios de consultoría estratégica para la implementación? durabilidad avanzado único beneficio,noche,1
+¿Cuál es la satisfacción del cliente en su industria? durabilidad descuento ideal,día,1
+Estoy interesado en programar una reunión para discutir opciones de colaboración. beneficio estilo exclusivo premium,noche,1
+¿Puedes hablar sobre los beneficios medibles de su producto? calidad ventaja garantía,día,1
+¿Tienen un programa de referencia para empresas con beneficios exclusivos? precio oferta rendimiento promoción,día,1
+¿Cuál es el tiempo de respuesta esperado para consultas generales? exclusivo garantía rendimiento ahorro,día,1
+Me gustaría obtener una demostración en vivo enfocada en mi negocio. descuento premium beneficio,noche,1
+¿Ofrecen capacitación en el sitio para usuarios avanzados? ideal promoción revolucionario,noche,1
+¿Cuál es su política de reembolso en caso de incumplimiento de SLA? ideal calidad durabilidad avanzado,día,1
+Estoy interesado en explorar la personalización avanzada y exclusiva del producto. único exclusivo descuento durabilidad,noche,1
+¿Puedes proporcionar ejemplos de ROI específicos de mi industria? ventaja exclusivo estilo,día,1
+¿Tienen un programa de lealtad empresarial con beneficios atractivos? precio ahorro promoción beneficio,noche,1
+¿Cuál es el proceso de resolución de problemas en situaciones críticas? óptimo beneficio estilo,noche,1
+Me gustaría obtener detalles sobre la integración con sistemas externos y API. avanzado premium ideal oferta,día,1
+¿Ofrecen casos de éxito que muestren impacto en el crecimiento empresarial? premium garantía ventaja,día,1
+¿Tienen una política de precios que garantiza la predictibilidad a largo plazo? económico último modelo rendimiento,día,1
+¿Cuál es la experiencia de incorporación para empresas en su industria? económico óptimo beneficio,día,1
+Estoy dispuesto a explorar opciones de capacitación personalizada en profundidad. económico beneficio último modelo,día,1
+¿Puedes hablar sobre los informes personalizables y la analítica avanzada? promoción oportunidad ventaja revolucionario,día,1
+¿Tienen un programa de fidelización empresarial con ventajas exclusivas? premium económico precio,noche,1
+¿Cuál es el proceso de escalada en caso de problemas críticos urgentes? único económico estilo,día,1
+Me gustaría explorar la asistencia técnica en el sitio y servicios dedicados. premium revolucionario estilo,noche,1
+¿Ofrecen recursos de formación personalizada para casos de uso específicos? único durabilidad oferta,noche,1
+¿Cuál es su política de actualización de precios a medida que crece la empresa? exclusivo ventaja ideal,día,1
+Estoy dispuesto a considerar un plan de implementación totalmente adaptado a mi empresa. premium oferta promoción,noche,1
+¿Puedes proporcionar ejemplos de implementación exitosa a nivel empresarial? precio rendimiento durabilidad estilo,día,1
+¿Tienen un programa de referencia empresarial con recompensas significativas? precio novedad descuento último modelo,día,1
+¿Cuál es el tiempo de respuesta garantizado para problemas técnicos críticos? único descuento oportunidad promoción,noche,1
+Me gustaría obtener información sobre la integración avanzada con herramientas empresariales. oportunidad descuento rendimiento oferta,día,1
+¿Ofrecen servicios de consultoría estratégica adaptados a las necesidades empresariales? innovador oportunidad último modelo,noche,1
+¿Cuál es la satisfacción del cliente en su industria a nivel empresarial? ideal revolucionario único rendimiento,día,1
